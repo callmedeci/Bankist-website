@@ -2,18 +2,18 @@
 
 Bankist is a sleek, minimalist banking UI concept designed to showcase a clean and intuitive user interface. With a focus on simplicity and modern aesthetics, it presents a visually appealing banking experience.
 
-## 🚀 Features
+## Features
 - Modern and minimalist UI design
 - Responsive layout for a seamless experience on all devices
 - Built with TailwindCSS for efficient styling
 - Uses Vite for fast development and optimized builds
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Frontend**: HTML, CSS, JavaScript (ES Modules)
 - **Styling**: TailwindCSS
 - **Build Tool**: Vite
 
-## 📦 Installation
+## Installation
 
 To set up the project locally, follow these steps:
 
